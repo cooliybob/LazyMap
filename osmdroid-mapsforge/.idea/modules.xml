@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../GoogleWrapperSample/GoogleWrapperSample.iml" filepath="$PROJECT_DIR$/../GoogleWrapperSample/GoogleWrapperSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OSMMapTilePackager/OSMMapTilePackager.iml" filepath="$PROJECT_DIR$/../OSMMapTilePackager/OSMMapTilePackager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OpenStreetMapViewer/OpenStreetMapViewer.iml" filepath="$PROJECT_DIR$/../OpenStreetMapViewer/OpenStreetMapViewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../osmdroid-android/osmdroid-android.iml" filepath="$PROJECT_DIR$/../osmdroid-android/osmdroid-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../osmdroid-forge-app/osmdroid-forge-app.iml" filepath="$PROJECT_DIR$/../osmdroid-forge-app/osmdroid-forge-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osmdroid-mapsforge.iml" filepath="$PROJECT_DIR$/osmdroid-mapsforge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../osmdroid-parent.iml" filepath="$PROJECT_DIR$/../osmdroid-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../osmdroid-third-party/osmdroid-third-party.iml" filepath="$PROJECT_DIR$/../osmdroid-third-party/osmdroid-third-party.iml" />
+    </modules>
+  </component>
+</project>

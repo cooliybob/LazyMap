@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="D:\LazyMap\osmdroid-mapsforge\build\intermediates\exploded-aar\LazyMap\osmdroid-android\unspecified\assets"/></dataSet><dataSet config="debug"><source path="D:\LazyMap\osmdroid-mapsforge\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="D:\LazyMap\osmdroid-mapsforge\src\androidTest\assets"/><source path="D:\LazyMap\osmdroid-mapsforge\build\generated\assets\shaders\androidTest\debug"/></dataSet></merger>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LazyMap</string>
+    <string name="app_key">"db-gexm3labqcfay9r"</string>
+    <string name="download_map">"下載地圖"</string>
+    <string name="normal_map">"街道圖"</string>
+    <string name="elevate_map">"等高線圖"</string>
+
+    <string name="compass_east">東</string>
+    <string name="compass_south">南</string>
+    <string name="compass_north">北</string>
+    <string name="compass_west">西</string>
+    <string name="compass_eastsouth">東南</string>
+    <string name="compass_eastnorth">東北</string>
+    <string name="compass_westsouth">西南</string>
+    <string name="compass_westnorth">西北</string>
+
+</resources>

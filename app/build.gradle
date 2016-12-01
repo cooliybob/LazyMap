@@ -1,0 +1,42 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.2"
+
+    defaultConfig {
+        applicationId "com.example.acer.lazymap"
+        minSdkVersion 23
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    repositories {
+        mavenCentral()
+        flatDir {
+            dirs 'libs'
+        }
+    }
+}
+
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile files('libs/dropbox-android-sdk-1.6.3.jar')
+    compile files('libs/json_simple-1.1.jar')
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:23.4.0'
+    compile 'com.android.support:design:23.4.0'
+    compile(name: 'osmbonuspack_v5.7', ext: 'aar')
+    compile 'com.google.code.gson:gson:2.7'
+    //custom floating button
+    compile 'com.dmitrymalkovich.android:progress-fab:1.6'
+    //osmdroid map and mapsforge adapter
+    compile project(':osmdroid-mapsforge')
+}

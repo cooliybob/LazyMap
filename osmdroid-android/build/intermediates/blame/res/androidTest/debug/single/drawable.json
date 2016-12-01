@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "D:\\LazyMap\\osmdroid-android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\moreinfo_arrow.png",
+        "source": "D:\\LazyMap\\osmdroid-android\\build\\intermediates\\bundles\\debug\\res\\drawable\\moreinfo_arrow.png"
+    },
+    {
+        "merged": "D:\\LazyMap\\osmdroid-android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\direction_arrow.png",
+        "source": "D:\\LazyMap\\osmdroid-android\\build\\intermediates\\bundles\\debug\\res\\drawable\\direction_arrow.png"
+    },
+    {
+        "merged": "D:\\LazyMap\\osmdroid-android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\next.png",
+        "source": "D:\\LazyMap\\osmdroid-android\\build\\intermediates\\bundles\\debug\\res\\drawable\\next.png"
+    },
+    {
+        "merged": "D:\\LazyMap\\osmdroid-android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_moreinfo.xml",
+        "source": "D:\\LazyMap\\osmdroid-android\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_moreinfo.xml"
+    },
+    {
+        "merged": "D:\\LazyMap\\osmdroid-android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\person.png",
+        "source": "D:\\LazyMap\\osmdroid-android\\build\\intermediates\\bundles\\debug\\res\\drawable\\person.png"
+    },
+    {
+        "merged": "D:\\LazyMap\\osmdroid-android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\zoom_out.png",
+        "source": "D:\\LazyMap\\osmdroid-android\\build\\intermediates\\bundles\\debug\\res\\drawable\\zoom_out.png"
+    },
+    {
+        "merged": "D:\\LazyMap\\osmdroid-android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\moreinfo_arrow_pressed.png",
+        "source": "D:\\LazyMap\\osmdroid-android\\build\\intermediates\\bundles\\debug\\res\\drawable\\moreinfo_arrow_pressed.png"
+    },
+    {
+        "merged": "D:\\LazyMap\\osmdroid-android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_menu_mylocation.png",
+        "source": "D:\\LazyMap\\osmdroid-android\\build\\intermediates\\bundles\\debug\\res\\drawable\\ic_menu_mylocation.png"
+    },
+    {
+        "merged": "D:\\LazyMap\\osmdroid-android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\navto_small.png",
+        "source": "D:\\LazyMap\\osmdroid-android\\build\\intermediates\\bundles\\debug\\res\\drawable\\navto_small.png"
+    },
+    {
+        "merged": "D:\\LazyMap\\osmdroid-android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\previous.png",
+        "source": "D:\\LazyMap\\osmdroid-android\\build\\intermediates\\bundles\\debug\\res\\drawable\\previous.png"
+    },
+    {
+        "merged": "D:\\LazyMap\\osmdroid-android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\marker_default.png",
+        "source": "D:\\LazyMap\\osmdroid-android\\build\\intermediates\\bundles\\debug\\res\\drawable\\marker_default.png"
+    },
+    {
+        "merged": "D:\\LazyMap\\osmdroid-android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\center.png",
+        "source": "D:\\LazyMap\\osmdroid-android\\build\\intermediates\\bundles\\debug\\res\\drawable\\center.png"
+    },
+    {
+        "merged": "D:\\LazyMap\\osmdroid-android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\marker_default_focused_base.png",
+        "source": "D:\\LazyMap\\osmdroid-android\\build\\intermediates\\bundles\\debug\\res\\drawable\\marker_default_focused_base.png"
+    },
+    {
+        "merged": "D:\\LazyMap\\osmdroid-android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_menu_compass.png",
+        "source": "D:\\LazyMap\\osmdroid-android\\build\\intermediates\\bundles\\debug\\res\\drawable\\ic_menu_compass.png"
+    },
+    {
+        "merged": "D:\\LazyMap\\osmdroid-android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\zoom_in.png",
+        "source": "D:\\LazyMap\\osmdroid-android\\build\\intermediates\\bundles\\debug\\res\\drawable\\zoom_in.png"
+    },
+    {
+        "merged": "D:\\LazyMap\\osmdroid-android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_menu_mapmode.png",
+        "source": "D:\\LazyMap\\osmdroid-android\\build\\intermediates\\bundles\\debug\\res\\drawable\\ic_menu_mapmode.png"
+    },
+    {
+        "merged": "D:\\LazyMap\\osmdroid-android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_menu_offline.png",
+        "source": "D:\\LazyMap\\osmdroid-android\\build\\intermediates\\bundles\\debug\\res\\drawable\\ic_menu_offline.png"
+    },
+    {
+        "merged": "D:\\LazyMap\\osmdroid-android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bonuspack_bubble.9.png",
+        "source": "D:\\LazyMap\\osmdroid-android\\build\\intermediates\\bundles\\debug\\res\\drawable\\bonuspack_bubble.9.png"
+    }
+]

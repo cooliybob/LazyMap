@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "D:\\LazyMap\\osmdroid-mapsforge\\build\\intermediates\\res\\merged\\release\\drawable\\previous.png",
+        "source": "D:\\LazyMap\\osmdroid-mapsforge\\build\\intermediates\\exploded-aar\\LazyMap\\osmdroid-android\\unspecified\\res\\drawable\\previous.png"
+    },
+    {
+        "merged": "D:\\LazyMap\\osmdroid-mapsforge\\build\\intermediates\\res\\merged\\release\\drawable\\moreinfo_arrow_pressed.png",
+        "source": "D:\\LazyMap\\osmdroid-mapsforge\\build\\intermediates\\exploded-aar\\LazyMap\\osmdroid-android\\unspecified\\res\\drawable\\moreinfo_arrow_pressed.png"
+    },
+    {
+        "merged": "D:\\LazyMap\\osmdroid-mapsforge\\build\\intermediates\\res\\merged\\release\\drawable\\marker_default_focused_base.png",
+        "source": "D:\\LazyMap\\osmdroid-mapsforge\\build\\intermediates\\exploded-aar\\LazyMap\\osmdroid-android\\unspecified\\res\\drawable\\marker_default_focused_base.png"
+    },
+    {
+        "merged": "D:\\LazyMap\\osmdroid-mapsforge\\build\\intermediates\\res\\merged\\release\\drawable\\ic_menu_offline.png",
+        "source": "D:\\LazyMap\\osmdroid-mapsforge\\build\\intermediates\\exploded-aar\\LazyMap\\osmdroid-android\\unspecified\\res\\drawable\\ic_menu_offline.png"
+    },
+    {
+        "merged": "D:\\LazyMap\\osmdroid-mapsforge\\build\\intermediates\\res\\merged\\release\\drawable\\center.png",
+        "source": "D:\\LazyMap\\osmdroid-mapsforge\\build\\intermediates\\exploded-aar\\LazyMap\\osmdroid-android\\unspecified\\res\\drawable\\center.png"
+    },
+    {
+        "merged": "D:\\LazyMap\\osmdroid-mapsforge\\build\\intermediates\\res\\merged\\release\\drawable\\bonuspack_bubble.9.png",
+        "source": "D:\\LazyMap\\osmdroid-mapsforge\\build\\intermediates\\exploded-aar\\LazyMap\\osmdroid-android\\unspecified\\res\\drawable\\bonuspack_bubble.9.png"
+    },
+    {
+        "merged": "D:\\LazyMap\\osmdroid-mapsforge\\build\\intermediates\\res\\merged\\release\\drawable\\ic_menu_compass.png",
+        "source": "D:\\LazyMap\\osmdroid-mapsforge\\build\\intermediates\\exploded-aar\\LazyMap\\osmdroid-android\\unspecified\\res\\drawable\\ic_menu_compass.png"
+    },
+    {
+        "merged": "D:\\LazyMap\\osmdroid-mapsforge\\build\\intermediates\\res\\merged\\release\\drawable\\next.png",
+        "source": "D:\\LazyMap\\osmdroid-mapsforge\\build\\intermediates\\exploded-aar\\LazyMap\\osmdroid-android\\unspecified\\res\\drawable\\next.png"
+    },
+    {
+        "merged": "D:\\LazyMap\\osmdroid-mapsforge\\build\\intermediates\\res\\merged\\release\\drawable\\person.png",
+        "source": "D:\\LazyMap\\osmdroid-mapsforge\\build\\intermediates\\exploded-aar\\LazyMap\\osmdroid-android\\unspecified\\res\\drawable\\person.png"
+    },
+    {
+        "merged": "D:\\LazyMap\\osmdroid-mapsforge\\build\\intermediates\\res\\merged\\release\\drawable\\direction_arrow.png",
+        "source": "D:\\LazyMap\\osmdroid-mapsforge\\build\\intermediates\\exploded-aar\\LazyMap\\osmdroid-android\\unspecified\\res\\drawable\\direction_arrow.png"
+    },
+    {
+        "merged": "D:\\LazyMap\\osmdroid-mapsforge\\build\\intermediates\\res\\merged\\release\\drawable\\ic_menu_mapmode.png",
+        "source": "D:\\LazyMap\\osmdroid-mapsforge\\build\\intermediates\\exploded-aar\\LazyMap\\osmdroid-android\\unspecified\\res\\drawable\\ic_menu_mapmode.png"
+    },
+    {
+        "merged": "D:\\LazyMap\\osmdroid-mapsforge\\build\\intermediates\\res\\merged\\release\\drawable\\zoom_in.png",
+        "source": "D:\\LazyMap\\osmdroid-mapsforge\\build\\intermediates\\exploded-aar\\LazyMap\\osmdroid-android\\unspecified\\res\\drawable\\zoom_in.png"
+    },
+    {
+        "merged": "D:\\LazyMap\\osmdroid-mapsforge\\build\\intermediates\\res\\merged\\release\\drawable\\zoom_out.png",
+        "source": "D:\\LazyMap\\osmdroid-mapsforge\\build\\intermediates\\exploded-aar\\LazyMap\\osmdroid-android\\unspecified\\res\\drawable\\zoom_out.png"
+    },
+    {
+        "merged": "D:\\LazyMap\\osmdroid-mapsforge\\build\\intermediates\\res\\merged\\release\\drawable\\moreinfo_arrow.png",
+        "source": "D:\\LazyMap\\osmdroid-mapsforge\\build\\intermediates\\exploded-aar\\LazyMap\\osmdroid-android\\unspecified\\res\\drawable\\moreinfo_arrow.png"
+    },
+    {
+        "merged": "D:\\LazyMap\\osmdroid-mapsforge\\build\\intermediates\\res\\merged\\release\\drawable\\navto_small.png",
+        "source": "D:\\LazyMap\\osmdroid-mapsforge\\build\\intermediates\\exploded-aar\\LazyMap\\osmdroid-android\\unspecified\\res\\drawable\\navto_small.png"
+    },
+    {
+        "merged": "D:\\LazyMap\\osmdroid-mapsforge\\build\\intermediates\\res\\merged\\release\\drawable\\ic_menu_mylocation.png",
+        "source": "D:\\LazyMap\\osmdroid-mapsforge\\build\\intermediates\\exploded-aar\\LazyMap\\osmdroid-android\\unspecified\\res\\drawable\\ic_menu_mylocation.png"
+    },
+    {
+        "merged": "D:\\LazyMap\\osmdroid-mapsforge\\build\\intermediates\\res\\merged\\release\\drawable\\btn_moreinfo.xml",
+        "source": "D:\\LazyMap\\osmdroid-mapsforge\\build\\intermediates\\exploded-aar\\LazyMap\\osmdroid-android\\unspecified\\res\\drawable\\btn_moreinfo.xml"
+    },
+    {
+        "merged": "D:\\LazyMap\\osmdroid-mapsforge\\build\\intermediates\\res\\merged\\release\\drawable\\marker_default.png",
+        "source": "D:\\LazyMap\\osmdroid-mapsforge\\build\\intermediates\\exploded-aar\\LazyMap\\osmdroid-android\\unspecified\\res\\drawable\\marker_default.png"
+    }
+]
